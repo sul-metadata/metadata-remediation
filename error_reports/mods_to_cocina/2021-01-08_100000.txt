@@ -13601,8 +13601,8 @@ Data error: [DATA ERROR] Value URI has unexpected value: (OCoLC)fst01123875 (2 e
 druid:wx716zf3856
 druid:ps190sk2674
 Data error: [DATA ERROR] Value URI has unexpected value: lcsh (2 errors)
-druid:fd535zg0917
-druid:mk558jg7851
+druid:fd535zg0917 FIXED
+druid:mk558jg7851 FIXED
 Data error: [DATA ERROR] Value URI has unexpected value: (DE-588)4059758-1 (2 errors)
 druid:qg410fm2794
 druid:gt322hf1211
@@ -13651,7 +13651,7 @@ druid:hn517pc1636
 Data error: [DATA ERROR] Value URI has unexpected value: (OCoLC)fst01091282 (1 errors)
 druid:rx341nq4177
 Data error: [DATA ERROR] Value URI has unexpected value: ttp://id.loc.gov/authorities/names/nr96014627 (1 errors)
-druid:tv957bd7893
+druid:tv957bd7893 FIXED
 Data error: [DATA ERROR] Value URI has unexpected value: (viaf)315618719 (1 errors)
 druid:sh722hr7309
 Data error: [DATA ERROR] name has an xlink:href property (1 errors)
@@ -13669,9 +13669,9 @@ druid:pm342wv0035
 Data error: [DATA ERROR] Value URI has unexpected value: (OCoLC)fst00915833 (1 errors)
 druid:sm396sx6524
 Data error: [DATA ERROR] Name not found for title group (1 errors)
-druid:yk931xc5788
+druid:yk931xc5788 FIXED
 Data error: [DATA ERROR] Value URI has unexpected value: tp://id.loc.gov/authorities/performanceMediums/mp2013015550 (1 errors)
-druid:vb926zz0448
+druid:vb926zz0448 FIXED
 Data error: [DATA ERROR] Value URI has unexpected value: (OCoLC)fst01330617 (1 errors)
 druid:nq933sx1185
 Data error: [DATA ERROR] Value URI has unexpected value: (OCoLC)fst01204505 (1 errors)
